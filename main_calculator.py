@@ -1,4 +1,3 @@
-# Git link https://github.com/iHuGi/modulos_ExerciciosClass5.git
 
 from calculator import calc_all
 
